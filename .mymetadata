@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ztest"
+  id="myeclipse.1474860965032"
+  context-root="/ztest"
+  j2ee-spec="5.0"
+  archive="ztest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
